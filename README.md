@@ -1,4 +1,4 @@
-# 📌 DSA Tracker - MERN Stack
+# 📌 CODECLIMB (DSA Tracker) - MERN Stack
 
 ## 📝 Project Overview
 The **DSA Tracker** is a web application built using the **MERN stack** (MongoDB, Express, React, Node.js) to help users track their progress in **Data Structures and Algorithms (DSA)**.
